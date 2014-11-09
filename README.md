@@ -5,17 +5,17 @@ Period 5
 
 ##Main Projects
 
-### Project 1 name
-#### Team members
+### WhenHowDo
+#### Eric Wong, Cindy Wu, Syndey Caputo, Christopher Wennedy
 #### Description
-Describe your project here
-#### put the https clone link here
+Language Interpreter/Data Scraping
+#### https://github.com/CinWu/WhenHowDo.git
 
-### Project 2 name
-#### Team members
+### blog-engine
+#### Eric Wong, Junhao Dong, Elia Portnoy, Jenny
 #### Description
-Describe your project here
-#### put the https clone link here
+Blogging Engine (SQL)
+#### https://github.com/junhaodong/blog-engine.git
 
 ## Mini Projects
 
