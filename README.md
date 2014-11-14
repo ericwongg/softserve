@@ -17,6 +17,12 @@ Language Interpreter/Data Scraping
 Blogging Engine (SQL)
 #### https://github.com/junhaodong/blog-engine.git
 
+### Weathery
+#### Eric Wong, Andrew Lee, Tina Lee
+#### Description
+Use wunderground and tumblr api to display pictures related to current alerts of cities in United States
+#### https://github.com/ericwongg/api.git
+
 ## Mini Projects
 
  * login
@@ -24,7 +30,7 @@ Blogging Engine (SQL)
   * 5/login/eric_jerry
  * regexp
   * Eric Wong, Junhao Dong
-	* 6/regexp/ericwong_junhao
+  * 5/regexp/ericwong_junhao
  * intro-proj 1
-  * Mike Zamansky, Junhao Dong
-  * 6/intro-proj1/junhao_ericwong
+  * Eric Wong, Junhao Dong
+  * 5/intro-proj1/junhao_ericwong
