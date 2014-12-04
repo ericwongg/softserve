@@ -34,3 +34,9 @@ Use wunderground and tumblr api to display pictures related to current alerts of
  * intro-proj 1
   * Eric Wong, Junhao Dong
   * 5/intro-proj1/junhao_ericwong
+ * todo list
+  * Eric Wong, Jerry Dai
+  * 5/todo/ericwong_jerrydai
+ * find the inivisible _____
+  * Eric Wong, Jerry Dai
+  * 5/invisiblethluffy/eric_jerry
